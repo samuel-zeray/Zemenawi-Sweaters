@@ -217,7 +217,7 @@ text-decoration: underline;
 #back-to-top{
 background-color: rgba(0, 11, 15, 0.37);
 position: absolute;
-top: 590%;
+top: 595%;
 width: 100%;
 height: 35px;
 padding-left: 50%;
@@ -231,7 +231,7 @@ padding-top: 8px;
 #additional-info{
 background-color: rgba(33, 34, 36, 0.712);
 position: absolute;
-top: 581.5%;
+top: 585%;
 width: 100%;
 height: 500px;
 padding-top: 45px;
@@ -264,7 +264,7 @@ font-weight: bold;
 footer{
     color: white;
     position: absolute;
-    top: 675%;
+    top: 671%;
     left: 63%;
     font-weight: bold;
      }
